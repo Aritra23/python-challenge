@@ -1,2 +1,2 @@
-# python-challenge
-Py Me Up, Charlie
+# Py Me Up, Charlie
+Analysis of  financial records and election data analysis
